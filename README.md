@@ -1,2 +1,2 @@
 # Js-prectic
-First JavaScript prectic project
+First JavaScript prectic project , inspired from a random youtuber
