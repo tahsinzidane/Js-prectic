@@ -26,3 +26,17 @@ h1{
     font-weight: 700;
     font-style: normal;
 }
+
+button{
+    height: 30px;
+    width: 120px;
+    border-radius: 6px;
+    border: 0px solid;
+    position: absolute;
+    top: 400px;
+    left: 70px;;
+}
+button a{
+    text-decoration: none;
+}
+
